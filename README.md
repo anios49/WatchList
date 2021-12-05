@@ -19,7 +19,7 @@ You will need to build a simple app with following 3 pages:
 
 • Movies – This will display entries with programType == movie from the same json provided above. For both series and movies page, only display entries with releaseYear >= 2010and sort by title in ascending alphanumeric order. You will need to display image, title and release year of each entry using collection view.
 
-✅ @Animesh - Used collection Views and displayed the data as per requirements. Filter and sorting lofic is in "WatchListUtils" class.
+✅ @Animesh - Used collection Views and displayed the data as per requirements. Filter and sorting logic is in "WatchListUtils" class.
 
 ✅ @Animesh - Filter and Sort -
 

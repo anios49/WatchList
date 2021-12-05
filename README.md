@@ -1,7 +1,7 @@
 # WatchList - Please go through the README.md file for details.
 STAN coding assessment
 
-## Implementation info
+# Implementation info
  * Please review the documents folder for screenshots and documents.
 
  * Created the seprate library for WatchListServices, which contain all functionality that could be reused by 3rd party developers in any application that requires programs historical data.
@@ -49,7 +49,7 @@ No 3rd-party frameworks should be used.
 ![CodeCoverage](https://user-images.githubusercontent.com/43500940/144739546-aed153f2-09a5-4272-9fd4-5ead4b1dbd94.png)
 
 
-## Application Run & Compile steps
+# Application Run & Compile steps
 * Clone source code.
 
 * Open WatchList.xcodepoj.

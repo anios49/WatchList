@@ -1,2 +1,2 @@
 # WatchList
-Stan coding assessment
+STAN coding assessment

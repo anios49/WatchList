@@ -16,6 +16,6 @@ public protocol ProgramCollectionViewCellDataSource {
 }
 
 // MARK: ProgramCollectionViewCell Delegate Protocol
-public protocol ProgramCollectionViewCellDelegate: class {
+public protocol ProgramCollectionViewCellDelegate: AnyObject {
     func buttonAction(title:String, titleDescription:String)
 }

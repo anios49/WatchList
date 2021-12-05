@@ -49,10 +49,6 @@ No 3rd-party frameworks should be used.
 ![CodeCoverage](https://user-images.githubusercontent.com/43500940/144739546-aed153f2-09a5-4272-9fd4-5ead4b1dbd94.png)
 
 
-
-
- 
-
 ## Application Run & Compile steps
 * Clone source code.
 
@@ -62,3 +58,10 @@ No 3rd-party frameworks should be used.
 
 * Change target to WatchList and run the application
 
+# WatchListService Framework UML
+
+![WatchListServiceUML](https://user-images.githubusercontent.com/43500940/144745845-e8d39114-3303-4034-b2f5-a3a0da6a1b72.png)
+
+# WatchList Application UML
+
+![WatchListUML](https://user-images.githubusercontent.com/43500940/144745850-2e8f4a6d-b8df-4a85-b7b5-c211d0892c41.png)
